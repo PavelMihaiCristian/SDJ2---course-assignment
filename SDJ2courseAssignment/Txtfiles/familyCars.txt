@@ -1,0 +1,27 @@
+Peugeot,308,2007,Red,AR32342,Diesel,155789,Automatic,Copenhagen,100.0
+Nissan,Qashqai,2008,White,BD26223,Diesel,100256,Manual,Viborg,100.0
+Ford,Mondeo,2007,Blue,TY21344,Gasoline,88970,Manual,Aalborg,100.0
+Honda,CRV,2015,Brown,JK12331,Gasoline,11588,Manual,Viborg,100.0
+Acura,MDX,2015,Black,KP44277,Gasoline,102301,Manual,Copenhagen,100.0
+Honda,Accord,2016,Blue,LO88975,Diesel,91540,Automatic,Copenhagen,100.0
+Toyota,Highlander,2012,Red,ZA21333,Diesel,123341,Manual,Viborg,100.0
+Nissan,Pathfinder,2013,Black,IY00979,Diesel,203111,Automatic,Aalborg,100.0
+Chevrolet,Tahoe,2014,White,ER66748,Gasoline,100236,Manual,Aalborg,100.0
+Subaru,Outback,2010,Green,GF33213,Gasoline,209013,Manual,Aalborg,100.0
+Honda,Obyssey,2011,Silver,NM06493,Diesel,190366,Manual,Viborg,100.0
+Seat,Leon,2007,Black,HJ85856,Gasoline,215663,Manual,Copenhagen,100.0
+Scoda,Octavia,2005,Silver,VC67754,Gasoline,333122,Manual,Aalborg,100.0
+Hyundai,i30,2012,Red,HH33124,Diesel,100309,Automatic,Viborg,100.0
+Citroen,Picasso,2013,Black,YU81743,Diesel,105565,Manual,Viborg,100.0
+Ford,BMAX,2001,Grey,ZD00959,Gasoline,302254,Manual,Viborg,100.0
+Ford,Mondeo,2011,Black,LM55234,Diesel,155844,Automatic,Copenhagen,100.0
+Vauxhall,Insignia,2014,Blue,MF41233,Diesel,128266,Manual,Copenhagen,100.0
+Skoda,Superb,2016,Dark Grey,AS89820,Gasoline,222069,Manual,Copenhagen,100.0
+Volkswagen,Passat,2015,Green,VB87895,Diesel,10896,Manual,Viborg,100.0
+Skoda,Octavia,2010,Black,RV11969,Diesel,98960,Manual,Copenhagen,100.0
+Mazda,Six,2009,Red,BN69696,Diesel,180987,Automatic,Viborg,100.0
+Toyota,Avensis,2011,Blue,CV12093,Gasoline,206666,Manual,Copenhagen,100.0
+Citroen,C5,2006,Orange,XB99211,Gasoline,240568,Manual,Viborg,100.0
+Peugeot,508,2005,White,VL98756,Diesel,220486,Manual,Viborg,100.0
+Acura,MDX,2014,Green,KF79857,Gasoline,192111,Manual,Copenhagen,100.0
+Honda,Obyssey,2009,White,BB45493,Diesel,198786,Manual,Copenhagen,100.0

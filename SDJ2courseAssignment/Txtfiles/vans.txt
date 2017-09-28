@@ -1,0 +1,12 @@
+Mercedes,Vito,2004,Black,SD31743,Diesel,120555,Manual,Viborg,100.00,5
+Ford,Transit,2010,White,RT33214,Diesel,200411,Manual,Copenhagen,100.00,10
+Renault,Master,2002,Red,FF11559,Diesel,223019,Manual,Viborg,100.00,10
+Ford,Transit,2005,Black,SD23123,Diesel,98312,Automatic,Aalborg,100.00,10
+Buick,Terraza,2012,Silver,JO66654,Gasoline,100766,Automatic,Copenhagen,100.00,10
+Citroën,Berlingo,2014,Green,BV88674,Gasoline,123341,Automatic,Aalborg,100.00,10
+Fiat,Scudo,2014,Blue,TT54559,Diesel,106666,Automatic,Copenhagen,100.00,10
+Ford,Galaxy,2012,Silver,LB88088,Diesel,200413,Manual,Aalborg,100.00,15
+Honda,Vamos,2010,Yellow,GH98321,Gasoline,256007,Manual,Copenhagen,100.00,15
+Ford,Transit,2010,Grey,TH31234,Gasoline,309801,Automatic,Copenhagen,100.00,15
+Fiat,Ducato,2014,White,RF67577,Gasoline,370123,Manual,Viborg,100.00,15
+Dacia,Lodgy,2013,Black,SD77901,Gasoline,401233,Manual,Viborg,100.00,15

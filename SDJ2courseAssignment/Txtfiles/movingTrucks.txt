@@ -1,0 +1,4 @@
+Hino,268A,2014,White,FO99765,Diesel,100331,Manual,Viborg,100,20,
+GMC,Savana,2014,White,GH89852,Gasoline,98220,Manual,Aalborg,100,20,
+GMC,Savana,2010,Black,GR29813,Gasoline,301220,Manual,Aalborg,100,20,
+MITSUBISHI,FE180,2002,White,RY99023,Diesel,101422,Manual,Copenhagen,100,20,
